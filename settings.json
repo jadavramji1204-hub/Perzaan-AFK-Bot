@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "lionmc-swLI.aternos.me",
+    "port": 21306,
     "version": "1.21.1"
   },
   "position": {
